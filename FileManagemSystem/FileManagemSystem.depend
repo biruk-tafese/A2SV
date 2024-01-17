@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1705522553 source:/home/biruk/Desktop/Wincide/FileManagemSystem/main.cpp
+	<iostream>
+	<string>
+	<list>
+	<stack>
+	<queue>
+	<algorithm>
+
